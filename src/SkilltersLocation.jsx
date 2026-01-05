@@ -112,7 +112,7 @@ export default function LocationPage() {
       name: "Science City (Saturn)",
       label: "Skillters Center",
       image: "planets/Saturn.png",
-      href: "https://maps.app.goo.gl/ntJWtdnBEf2VqQ7g7",
+      href: "https://maps.app.goo.gl/uqRqCytmkz14Qw7A8",
       config: {
         border: "border-purple-400/30",
         hoverShadow: "hover:shadow-[0_0_30px_rgba(192,132,252,0.6)]",
